@@ -1,2 +1,2 @@
-Jeg har lavet et lille calculator program hvor vi har plusset, minus, ganget og divideret.
-Derudover har vi ændret lidt i vores add metoder så den både kan arbejde med String og array af int.
+28df68c Implemented add method for String input
+b9750d2 Initial commit
